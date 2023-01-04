@@ -1,4 +1,4 @@
-# Grant 23-H1-01 Milestones
+# Grant 23-H1-01 Details
 
 ## Project
 
@@ -24,7 +24,7 @@
 		* 01/04/23 -> 30/06/23 
 		* Payment of 12.5k USDC on satisfactory completion of M1.  
 
-## Milestones
+## Grant Milestones
 
 * M1
 	* 15 Wiki articles.
