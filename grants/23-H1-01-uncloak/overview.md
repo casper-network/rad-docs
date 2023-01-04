@@ -32,3 +32,13 @@
 ## Strategic Objective
 
 The strategic objective of this grant is to support the continuing work of the uncloak project.  It is thus an outreach grant whereby the cspr name will be amplified amongst a highly select community of rust engineers, applied cryptographers & decentralised systems experts.  Furthermore it can help to bring some positive feedback in respect of the cspr project image which currently is embarrassingly low within these rarified circles.
+
+## Further Information
+
+* Project Name = Uncloak
+* Project Description = Open cryptography et al
+* Partner Name = Uncloak
+* Partner Representative = Thor Kamphefner
+* Position = Project Lead
+* Address = XXXXXXXXXXXXXXXXXXXXXX
+* Email = XXXXXXXXXXXXXXXXXXXXXX
