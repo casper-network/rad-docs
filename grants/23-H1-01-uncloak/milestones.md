@@ -1,11 +1,14 @@
-1.  Grant amount = 25k USD.
+# R&D Grant Milestones: 23-H1-01 - Uncloak
 
-2.  Grant duration = 6 months.  
+## Amount
 
-2.1.  2 milestones.  50% payment per milestone.
+* 25k USD over 6 months.
+* 2 milestones - 50% payment per milestone.
 
-2.1.1.  M1 @ 3 months, i.e. Q1 2023.  Payment of 12.5k USDC on grant signature date.
-2.1.2.  M2 @ 6 months, i.e. Q2 2023.  Payment of 12.5k USDC on satisfactory completion of M1.
+## Milestones
+
+* M1 @ 3 months, i.e. Q1 2023.  Payment of 12.5k USDC on grant signature date.  
+* M2 @ 6 months, i.e. Q2 2023.  Payment of 12.5k USDC on satisfactory completion of M1.  
 
 2.2.  A follow up grant in H2 2023 may be issued if all milestones reached.
 
