@@ -20,29 +20,29 @@
 	* Q2 2023
 	* Payment of 12.5k USDC on satisfactory completion of M1.  
 
-2.2.  A follow up grant in H2 2023 may be issued if all milestones reached.
+* NOTE: A follow up grant in H2 2023 may be issued if all milestones reached.
 
-3.  KPIs suggested by grant applicant:
+## KPIs as suggested by applicant
 
-	2.1.  Increase in number of articles within Wiki Website.  E.G. 30 over 6 months ... i.e. 5 per month.
-	2.2.  Increase in study group content modules on Rust Cryptography Engineering.  E.G. New content for W2-W7 ... i.e. 1 per month.
-	2.3.  Blockchain conference side workshops.  E.G. ZK & Rust Workshop @ ZK Summit Lisbon ... i.e. 2 in total.
-	2.4.  Increase in numbers engaging with Wiki Website plus study group.
+* Increase in number of articles within Wiki Website.  E.G. 30 over 6 months ... i.e. 5 per month.
+* Increase in study group content modules on Rust Cryptography Engineering.  E.G. New content for W2-W7 ... i.e. 1 per month.
+* Blockchain conference side workshops.  E.G. ZK & Rust Workshop @ ZK Summit Lisbon ... i.e. 2 in total.
+* Increase in numbers engaging with Wiki Website plus study group.
 
-4.  Milestones:
+## Milestones:
 
-	4.2.  M1 KPIs:
+* M1 KPIs:
 
-		4.2.1.  15 Wiki articles.
-		4.2.2.  3 study group content modules.
-		4.2.3.	1 blockchain conference workshop.
-		4.2.4.	Increase in twitter followers.
-		4.2.5.	Increase in GitHub activity - followers, PRs ..etc.
-		4.2.6.	Increase in study group attendees.
-		4.2.7.	>= 1 article cross posted to Association's R&D blog.
-		4.2.8.	VIP Sponsor of Uncloak at >= 1 event
+	* 15 Wiki articles.
+	* 3 study group content modules.
+	* 1 blockchain conference workshop.
+	* Increase in twitter followers.
+	* Increase in GitHub activity - followers, PRs ..etc.
+	* Increase in study group attendees.
+	* >= 1 article cross posted to Association's R&D blog.
+	* VIP Sponsor of Uncloak at >= 1 event
 
-	4.3.  M2 KPIs:
+* M2 KPIs:
 
 		4.3.1.	15 Wiki articles.
 		4.3.2.	3 study group content modules.
