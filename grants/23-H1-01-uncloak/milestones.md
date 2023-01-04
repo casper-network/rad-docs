@@ -1,4 +1,4 @@
-# R&D Grant 23-H1-01 Milestones
+# Grant 23-H1-01 Milestones
 
 ## Project
 
@@ -12,8 +12,13 @@
 
 ## Milestones
 
-* M1 @ 3 months, i.e. Q1 2023.  Payment of 12.5k USDC on grant signature date.  
-* M2 @ 6 months, i.e. Q2 2023.  Payment of 12.5k USDC on satisfactory completion of M1.  
+* M1 @ 3 months
+	* Q1 2023
+	* Payment of 12.5k USDC on grant signature date.  
+
+* M2 @ 6 months
+	* Q2 2023
+	* Payment of 12.5k USDC on satisfactory completion of M1.  
 
 2.2.  A follow up grant in H2 2023 may be issued if all milestones reached.
 

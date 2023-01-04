@@ -1,4 +1,4 @@
-# R&D Grant 23-H1-01 Overview
+# Grant 23-H1-01 Overview
 
 ## Project
 
