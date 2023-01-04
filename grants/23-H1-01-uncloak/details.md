@@ -35,8 +35,8 @@
 	* Increase in study group attendees.
 	* Publication of >=1 article to Association's R&D blog.
 	* Sponsorship visibilty at >= 1 Uncloak event
- * 50 new wiki pages
- * Continued operation of courses
+	* 50 new wiki pages
+	* Continued operation of courses
 
 * M2
 	* 15 Wiki articles.
@@ -47,8 +47,8 @@
 	* Increase in study group attendees.
 	* Publication of >=1 article to Association's R&D blog.
 	* Sponsorship visibilty at >= 1 Uncloak event
- * 50 new wiki pages
- * Continued operation of courses
+	* 50 new wiki pages
+	* Continued operation of courses
 
 ## NOTES
 
