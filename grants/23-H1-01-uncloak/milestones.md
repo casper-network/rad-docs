@@ -39,8 +39,8 @@
 	* Increase in twitter followers.
 	* Increase in GitHub activity - followers, PRs ..etc.
 	* Increase in study group attendees.
-	* At least 1 article cross posted to Association's R&D blog.
-	* VIP Sponsor of Uncloak at >= 1 event
+	* Publication of >=1 article to Association's R&D blog.
+	* Sponsorship visibilty at >= 1 Uncloak event
 
 * M2 KPIs:
 
@@ -50,5 +50,5 @@
 	* Increase in twitter followers.
 	* Increase in GitHub activity - followers, PRs ..etc.
 	* Increase in study group attendees.
-	* At least 1 article cross posted to Association's R&D blog.
-	* VIP Sponsor of Uncloak at >= 1 event
+	* Publication of >=1 article to Association's R&D blog.
+	* Sponsorship visibilty at >= 1 Uncloak event
