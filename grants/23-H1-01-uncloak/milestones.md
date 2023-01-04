@@ -31,8 +31,9 @@
 
 ## Milestones:
 
-* M1 KPIs:
+* M1:
 
+	* 01/01/23 -> 31/03/23 
 	* 15 Wiki articles.
 	* 3 study group content modules.
 	* 1 blockchain conference workshop.
@@ -42,8 +43,9 @@
 	* Publication of >=1 article to Association's R&D blog.
 	* Sponsorship visibilty at >= 1 Uncloak event
 
-* M2 KPIs:
+* M2:
 
+	* 01/04/23 -> 30/06/23 
 	* 15 Wiki articles.
 	* 3 study group content modules.
 	* 1 blockchain conference workshop.
