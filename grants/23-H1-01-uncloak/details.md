@@ -18,11 +18,11 @@
 * Milestones
 	* M1
 		* 01/01/23 -> 31/03/23 
-		* Payment of 12.5k USDC on grant signature date.  
+		* Payment of 12.5k USDC upon grant signature date.  
 
 	* M2
 		* 01/04/23 -> 30/06/23 
-		* Payment of 12.5k USDC on satisfactory completion of M1.  
+		* Payment of 12.5k USDC upon satisfactory completion of M1.  
 
 ## Grant Milestones
 
