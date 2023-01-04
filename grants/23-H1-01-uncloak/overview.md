@@ -2,27 +2,27 @@
 
 ## Project Lead
 
-	* Thor Kamphefner.
-	* First contact made at Cyptography 2022, he had a high profile amongst the attendees. 
-	* He presented upon the circumstances surrounding the Tornado Cash project.
-	* Link to his personal website.
-	* He has deep links to West Coast VC community, especially a16z - these links can be very useful.
+* Thor Kamphefner.
+* First contact made at Cyptography 2022, he had a high profile amongst the attendees. 
+* He presented upon the circumstances surrounding the Tornado Cash project.
+* Link to his personal website.
+* He has deep links to West Coast VC community, especially a16z - these links can be very useful.
 
 ## Knowledge wiki
 
-	* See [here](https://uncloak.org).
-	* This is a pedagogic resource with the aim to act as a one-stop shop for learning resources pertinent to the space.
+* See [here](https://uncloak.org).
+* This is a pedagogic resource with the aim to act as a one-stop shop for learning resources pertinent to the space.
 
 ## Rust Cryptography Engineering Study Group
 
-	* See [here](https://uncloak.org/courses/rust+cryptography+engineering/course-Rust+Cryptography+Engineering+Study+Group+Syllabus)
-	* This is a 4 month course aimed at getting rust engineers upto speed with applied cryptography.
+* See [here](https://uncloak.org/courses/rust+cryptography+engineering/course-Rust+Cryptography+Engineering+Study+Group+Syllabus)
+* This is a 4 month course aimed at getting rust engineers upto speed with applied cryptography.
 
 ## Events & Sponsorship Informatino
 
-	* See [here](https://hackmd.io/@thor314/rkdsG6mOo#What-Other-Events) for planned event participation - i.e. uncloak will organise side events at major conferences.
-	* See [here](https://hackmd.io/@thor314/rkdsG6mOo#Uncloak-Sponsorship) for sponsor information.
-	* ZK Summit & ZK Hacakthon would be ideal event for CSPR to sponsor.
+* See [here](https://hackmd.io/@thor314/rkdsG6mOo#What-Other-Events) for planned event participation - i.e. uncloak will organise side events at major conferences.
+* See [here](https://hackmd.io/@thor314/rkdsG6mOo#Uncloak-Sponsorship) for sponsor information.
+* ZK Summit & ZK Hacakthon would be ideal event for CSPR to sponsor.
 
 ## Strategic Objective.
 
