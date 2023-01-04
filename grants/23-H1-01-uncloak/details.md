@@ -36,7 +36,7 @@
 	* Publication of >=1 article to Association's R&D blog.
 	* Sponsorship visibilty at >= 1 Uncloak event
 
-* M1
+* M2
 	* 15 Wiki articles.
 	* 3 study group content modules.
 	* 1 blockchain conference workshop.
