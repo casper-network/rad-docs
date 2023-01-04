@@ -10,7 +10,7 @@
 * Thor Kamphefner.
 * First contact made at Cyptography 2022, he had a high profile amongst the attendees. 
 * He presented upon the circumstances surrounding the Tornado Cash project.
-* Link to his personal website.
+* [Link](https://thork.net/) to his personal website.
 * He has deep links to West Coast VC community, especially a16z - these links can be very useful.
 
 ## Knowledge wiki
