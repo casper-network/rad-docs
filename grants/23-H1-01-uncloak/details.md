@@ -35,8 +35,10 @@
 	* Increase in study group attendees.
 	* Publication of >=1 article to Association's R&D blog.
 	* Sponsorship visibilty at >= 1 Uncloak event
+	* 50 new wiki pages
+	* Continued operation of courses
 
-* M1
+* M2
 	* 15 Wiki articles.
 	* 3 study group content modules.
 	* 1 blockchain conference workshop.
@@ -45,6 +47,8 @@
 	* Increase in study group attendees.
 	* Publication of >=1 article to Association's R&D blog.
 	* Sponsorship visibilty at >= 1 Uncloak event
+	* 50 new wiki pages
+	* Continued operation of courses
 
 ## NOTES
 
